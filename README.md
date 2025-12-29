@@ -24,7 +24,7 @@
 ### 一键安装
 
 ```bash
-wget -N --no-check-certificate "https://raw.githubusercontent.com/Joseph-ink/usque-easy/main/usque-easy.sh" && chmod +x usque-easy.sh && ./usque-easy.sh
+wget -N --no-check-certificate "https://gh-proxy.com/https://raw.githubusercontent.com/Joseph-ink/usque-easy/main/usque-easy.sh" && chmod +x usque-easy.sh && ./usque-easy.sh
 ```
 
 ## 📖 使用说明
