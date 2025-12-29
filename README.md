@@ -27,27 +27,7 @@
 wget -N --no-check-certificate "https://raw.githubusercontent.com/Joseph-ink/usque-easy/main/usque-easy.sh" && chmod +x usque-easy.sh && ./usque-easy.sh
 ```
 
-### 交互式菜单
-
-```bash
-sudo ./usque-easy.sh
-```
-
 ## 📖 使用说明
-
-### 命令行参数
-
-| 参数 | 说明 |
-|------|------|
-| `install` | 完整安装 |
-| `uninstall` | 卸载 |
-| `status` | 查看状态 |
-| `test` | 测试连接 |
-| `fix-ipv6` | 修复 IPv6-only 环境 endpoint |
-| `warp-plus` | 激活 WARP+ |
-| `watchdog-on` | 启用定时监控 |
-| `watchdog-off` | 禁用定时监控 |
-| `watchdog-status` | 查看监控状态 |
 
 ### 交互式菜单选项
 
