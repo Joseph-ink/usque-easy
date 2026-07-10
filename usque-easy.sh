@@ -24,7 +24,7 @@ BINARY_PATH="${INSTALL_DIR}/usque"
 SERVICE_NAME="usque-warp"
 SERVICE_FILE="/etc/systemd/system/${SERVICE_NAME}.service"
 GITHUB_REPO="Diniboy1123/usque"
-LATEST_VERSION="1.4.2"
+LATEST_VERSION="4.2.0"
 
 # TUN接口名称
 TUN_INTERFACE="warp0"
